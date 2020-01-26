@@ -8,8 +8,8 @@ sections:
   component: intro.html
   content: At 95ovr, we are looking to bring a unique and personal perspective on
     the past, present, and future of the NBA. Our articles represent our thoughts
-    on the players, teams, and the league and general. We seek to use stats and analysis
-    as we discuss various topics related to the NBA.
+    on the players, teams, and the league in general. We also seek to use stats and
+    analysis as we discuss various topics related to the NBA.
   actions:
   - label: Learn More
     url: "/about"

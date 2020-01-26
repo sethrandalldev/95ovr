@@ -1,22 +1,21 @@
 ---
 title: Home
 sections:
-  - type: intro
-    template: intro
-    title: Intro
-    section_id: intro
-    component: intro.html
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Learn More
-        url: /about
-menus:
-  main:
-    title: Home
-    weight: 1
+- type: intro
+  template: intro
+  title: Intro
+  section_id: intro
+  component: intro.html
+  content: At 95ovr, we are looking to bring a unique and personal perspective on
+    the past, present, and future of the NBA. Our articles represent our thoughts
+    on the players, teams, and the league and general. We seek to use stats and analysis
+    as we discuss various topics related to the NBA.
+  actions:
+  - label: Learn More
+    url: "/about"
 layout: home
+menu:
+  main:
+    weight: 1
+
 ---

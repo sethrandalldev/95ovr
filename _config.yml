@@ -5,8 +5,8 @@ permalink: "/:title/"
 layout_style: grid
 palette: green
 header:
-  title: Ampersand
-  logo_img: images/logo.png
+  title: 95ovr.
+  logo_img: "/images/logo-1.png"
   has_nav: true
 footer:
   content: "&copy; All rights reserved."

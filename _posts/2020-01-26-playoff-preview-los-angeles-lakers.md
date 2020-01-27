@@ -2,12 +2,14 @@
 layout: post
 title: 'Playoff Preview: Los Angeles Lakers'
 subtitle: A series looking at potential playoff teams.
-date: 2020-01-26 06:00:00 +0000
+date: 2020-01-26T06:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: ''
 excerpt: ''
 
 ---
+### By: Seth Randall
+
 **The Good**
 
 For a team that is looking like the number one seed in the western conference, there is a lot to like. For starters, Lebron James and Anthony Davis might be the top duo in the league. They have all the physical abilities that a top duo needs and with Lebron's court vision (10.7 assists per game) and AD finding a reliable three-point shot (39% from behind the arc in 8 January games), these two are tough to guard when both of them are on the floor.
@@ -24,7 +26,7 @@ Despite the great play from AD and Lebron, they cannot play all forty-eight minu
 
 **The Ugly**
 
-The worst part of this team is their bench. Kuzma and Caruso can be excellent and time and provide some good energy when the starters need a rest. Sometimes, however, the bench is stagnant on offense and this means lots of three-pointers, fade-aways, and little passing or movement. This is something that might be addressed with a free-agent acquisition or maybe by the trade deadline as Kyle Kuzma has been mentioned as a trading piece to acquire a player that better fills some other gaps on the team's roster.
+The worst part of this team is their bench. Kuzma and Caruso can be excellent at times and provide some good energy when the starters need a rest. Sometimes, however, the bench is stagnant on offense and this means lots of three-pointers, fade-aways, and little passing or movement. This is something that might be addressed with a free-agent acquisition or maybe by the trade deadline as Kyle Kuzma has been mentioned as a trading piece to acquire a player that better fills some other gaps on the team's roster.
 
 **Playoff Prediction: NBA Champions**
 
